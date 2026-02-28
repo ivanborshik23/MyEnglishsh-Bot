@@ -5,7 +5,7 @@
 
 ## 🗄 Схема Базы Данных
 Ознакомиться со схемой (ER-диаграммой) можно по ссылке: 
-[Посмотреть Schema.png](./Schema.png)
+[Посмотреть Schema.png](https://drive.google.com/file/d/1RF7ZFPHPprIt4XtcjN8N9wxo-30Zajlh/view?usp=sharing)
 
 ## 🛠 Технологии
 - **Python 3.13**
